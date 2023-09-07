@@ -29,7 +29,7 @@ import {
   summer,
   teen,
   vice,
-} from '../src/index';
+} from 'ungradient';
 
 console.log(atlas('Hello atlas!'));
 console.log(cristal('Hello cristal!'));
